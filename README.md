@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashikant Mishra</h1>
-<h3 align="center">penultimate undergrad, enthusiastic towards web</h3>
+<h3 align="center">'23 undergrad, enthusiastic towards webdev</h3>
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
