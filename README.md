@@ -11,7 +11,7 @@
 ### 🌟 About Me
 - 🔭 Currently diving deep into **Node.js** and **NextJS**
 - 💬 Ask me about **JavaScript**, **ReactJS**, **Full-Stack Development**
-- 📫 Reach me at: **shashikantmishra@gmail.com**
+- 📫 Reach me at: **26shashimishra@gmail.com**
 - 🌱 Always learning and exploring modern web technologies
 - ☕ Fun fact: I love **chai** over coffee!
 
